@@ -12,3 +12,5 @@ I scroll carefully so only the first sentence is visible; then I find the select
 A difference between my code and their expected code is I used a more specific selector (.header h1 instead of only h1) to chance the title blue, this is because they wanted it to match the background which is specific to .header so if another h1 were added it would be blue but not necessarily in .header. Maybe they would want all h1 to match the header background regardless of location. 
 
 I was unsure whether to use the universal selector * or selecting body. * was my first idea and it is universally compatible but I don't need to seledct elements outside of body so I changed to selecting body.
+
+I added list-style after looking up the name on MDN because I remember using it before and liked it. 
